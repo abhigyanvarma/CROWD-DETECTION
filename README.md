@@ -77,6 +77,6 @@ This project is licensed under the MIT License.
 
 ## Team Members
 
-- **Chiluvuri Siva Abhigyan Varma**
+- **Chiluvuri Siva Sai Abhigyan Varma**
 - **Uchuru Rushindra Kumar Reddy**
 - **Jambugolam Eshwar Chand**
